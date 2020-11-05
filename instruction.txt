@@ -1,0 +1,9 @@
+Write a program to call either
+/v1/public/characters
+/v1/public/comics
+
+Analyse the result
+
+In other words: get marvel characters from comics or characters
+
+Read documentation at https://developer.marvel.com/documentation/authorization
